@@ -34,7 +34,7 @@ def get_filters():
     # city = read_user_data()
     #
 
-    # TO DO: get user input for month (all, january, february, ... , june)
+    
 
     #    month = input("give me month: ")
     while True:
