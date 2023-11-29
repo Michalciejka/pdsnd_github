@@ -27,12 +27,7 @@ def get_filters():
         else:
             print("City is invalid, Please, change.")
     # print("City:", city)
-    #    chicago = pd.read_csv(CITY_DATA['chicago'])
-    #    new_york_city= pd.read_csv(CITY_DATA['new york city'])
-    #    washington = pd.read_csv(CITY_DATA['washington'])
-    #    return city
-    # city = read_user_data()
-    #
+
 
     
 
